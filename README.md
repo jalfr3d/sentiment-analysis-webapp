@@ -1,6 +1,6 @@
-# Diary Tone - Sentiment Analysis Web App
+# Sentiment Analysis Web App
 
-Diary Tone is a web application built using Streamlit for performing sentiment analysis on journal entries. It analyzes the sentiment of your diary entries, helping you understand the positivity or negativity of your thoughts over time.
+Is a web application built using Streamlit for performing sentiment analysis on journal entries. It analyzes the sentiment of your diary entries, helping you understand the positivity or negativity of your thoughts over time.
 
 ## Features
 
