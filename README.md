@@ -42,3 +42,6 @@ Is a web application built using Streamlit for performing sentiment analysis on 
 - Integrate the web app with a database to store and retrieve journal entries securely.
 
 - Deploy the web app to a server or cloud platform to make it accessible online.
+
+## License
+This project is licensed under the MIT License. You are free to use and modify the code for your own purposes.
